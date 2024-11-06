@@ -1,0 +1,14 @@
+{
+  "name": "resto-app",
+  "version": "1.0.0",
+  "description": "\"",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Subramanya_Talli",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
